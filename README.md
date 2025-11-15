@@ -6,13 +6,19 @@
 
 - 🌱 I’m currently learning Dotnet
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **Reactjs & Nextjs**
 
 - 📫 How to reach me **abdulkarimogaji001@gmail.com** or **abdulkarim@crowsperch.me**
 
 - 📄 Know about my experiences <a href="https://crowsperch.me/ABDULKARIMOGAJI_CV.pdf" target="blank">Resume</a>
+
+<br />
+<br />
+<br />
+
+<br />
+<br />
+<br />
 
 <div id="user-content-toc">
   <ul align="center">
