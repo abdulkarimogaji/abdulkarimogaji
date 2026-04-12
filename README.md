@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Reactjs & Nextjs**
 
-- 📫 How to reach me **abdulkarimogaji001@gmail.com** or **abdulkarim@crowsperch.me**
+- 📫 How to reach me **abdulkarimogaji001@gmail.com**
 
-- 📄 Know about my experiences <a href="https://crowsperch.me/ABDULKARIMOGAJI_CV.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://abdul-karim.info/ABDULKARIMOGAJI_CV.pdf" target="blank">Resume</a>
 
 <br />
 <br />
